@@ -1,4 +1,4 @@
-# spice-hut
+# Spice Hut
 Spice hut restaurent website
 
 * In this project I used React.js and Tailwind CSS to create a static website for advertisement purpose for a client.
